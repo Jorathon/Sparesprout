@@ -73,7 +73,7 @@ class _Page10WidgetState extends State<Page10Widget>
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(0.0),
                       child: Image.asset(
-                        'assets/images/10.jpg',
+                        'assets/images/FINAL.jpg',
                         width: double.infinity,
                         height: double.infinity,
                         fit: BoxFit.fill,
